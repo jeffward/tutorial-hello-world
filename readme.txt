@@ -1,1 +1,1 @@
-This is a test text new.
+Just a refresher tutorial
